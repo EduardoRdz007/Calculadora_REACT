@@ -30,10 +30,10 @@
 
 input[type='button']{
 	width: 100px;
-	background: 008080;
+	background: #008080;
 	border: 1px solid #222;
 	padding: 10px 20px;
-  color: black;
+  color: rgb(244, 244, 244);
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -53,7 +53,7 @@ input[type='button']:active{
   width: 400px;
 	background: #ADED;
 	border: 0px;
-	color: #222;
+	color: rgb(53, 139, 179);
 	padding: 10px;
 	text-align: right;
 }
