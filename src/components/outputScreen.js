@@ -11,5 +11,4 @@ const OutputScreen = (props) => {
   )
 }
 
-// Export Output Screen.
 export default OutputScreen;

@@ -1,8 +1,6 @@
-// Import React (Mandatory Step).
+
 import React from 'react';
 
-// Create Functional Component.
-// Takes title as props.value.
 const CalculatorTitle = (props) => {
   return (
     <div className="calculator-title">
@@ -11,5 +9,4 @@ const CalculatorTitle = (props) => {
   )
 }
 
-// Export Calculator Title.
 export default CalculatorTitle;
