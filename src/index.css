@@ -30,7 +30,7 @@
 
 input[type='button']{
 	width: 100px;
-	background: #008080;
+	background: 008080;
 	border: 1px solid #222;
 	padding: 10px 20px;
   color: black;
@@ -41,7 +41,7 @@ input[type='button']{
 }
 
 input[type='button']:active{
-	background: rgb(29, 161, 179);
+	background: #ccc;
 }
 
 
@@ -51,9 +51,9 @@ input[type='button']:active{
 
 .screen-row input{
   width: 400px;
-	background: rgba(74, 86, 90, 0.867);
+	background: #ADED;
 	border: 0px;
-	color: rgb(73, 168, 185);
+	color: #222;
 	padding: 10px;
 	text-align: right;
 }
