@@ -10,21 +10,3 @@ const CalculatorTitle = (props) => {
 }
 
 export default CalculatorTitle;
-hkfkhrkhkrhfrkfhfkhrkfhrfrkhfkhfrkfhkfrhfrkfhrkhfkrhfkrhfkhrkfhrkfhrkhfrñkdcm
-ggjlkjeglgkjlegj
-,dnncnklndlc
-nlnekglnlfn
-nlenvfknelnvlnfvflnflnvlf
-nlfenvfnelnelnflvnflnlenvlfn
-hkfkhrkhkrhfrkfhfkhrkfhrfrkhfkhfrkfhkfrhfrkfhrkhfkrhfkrhfkhrkfhrkfhrkhfrñkdcm
-ggjlkjeglgkjlegj
-,dnncnklndlc
-nlnekglnlfn
-nlenvfknelnvlnfvflnflnvlf
-nlfenvfnelnelnflvnflnlenvlfn
-hkfkhrkhkrhfrkfhfkhrkfhrfrkhfkhfrkfhkfrhfrkfhrkhfkrhfkrhfkhrkfhrkfhrkhfrñkdcm
-ggjlkjeglgkjlegj
-,dnncnklndlc
-nlnekglnlfn
-nlenvfknelnvlnfvflnflnvlf
-nlfenvfnelnelnflvnflnlenvlfn
