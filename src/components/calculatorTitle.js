@@ -10,4 +10,3 @@ const CalculatorTitle = (props) => {
 }
 
 export default CalculatorTitle;
-.........
