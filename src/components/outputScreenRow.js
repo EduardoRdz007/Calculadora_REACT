@@ -1,8 +1,7 @@
-// Import React (Mandatory Step).
+
 import React from 'react';
 
-// Functional Component.
-// Used to show Question/Answer.
+
 const OutputScreenRow = (props) => {
   return (
     <div className="screen-row">
@@ -11,5 +10,5 @@ const OutputScreenRow = (props) => {
   )
 }
 
-// Export Output Screen Row.
+
 export default OutputScreenRow;
